@@ -1,5 +1,4 @@
 * {
-    /*border: 1px solid red;*/
     margin: 0px;
     padding: 0px;
 }
@@ -128,3 +127,53 @@ img {
     align-self: flex-end;
     margin-right: 350px;
 }
+
+.content-4 {
+    margin: 100px 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-rectangle {
+    background-color:#3882F6;
+    display: flex;
+    width: 900px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    border-radius: 6px;
+
+
+}
+
+.blue-rectangle h1 {
+    color: white;
+    width: 400px;
+}
+
+.blue-rectangle p {
+    color: white;
+    filter: contrast(50%);
+}
+
+.blue-rectangle button {
+    color: white;
+    background-color: #3882F6;
+    width: 125px;
+    height: 35px;
+    border:1px solid white;
+    border-radius: 6px;
+}
+
+
+.blue-rectangle .right-side {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
