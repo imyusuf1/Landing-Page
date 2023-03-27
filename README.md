@@ -1,2 +1,2 @@
 # Landing-Page
-Landing page project
+This is my completed project of The Landing Page
